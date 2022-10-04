@@ -25,6 +25,10 @@ hr {
   border: 1px solid #003552;
 }
 
+p {
+  font-size: 18px;
+}
+
 /* Nav  */
 #navbar {
   padding-top: 14px;
